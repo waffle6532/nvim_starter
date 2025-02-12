@@ -44,9 +44,7 @@ require("lazy").setup({
     { import = "lazyvim.plugins.extras.linting.eslint" },
     { import = "lazyvim.plugins.extras.lsp.none-ls" },
     { import = "lazyvim.plugins.extras.test.core" },
-    { import = "lazyvim.plugins.extras.ui.smear-cursor" },
     { import = "lazyvim.plugins.extras.util.gitui" },
-    { import = "lazyvim.plugins.extras.util.project" },
 
     -- import/override with your plugins
     { import = "plugins" },
