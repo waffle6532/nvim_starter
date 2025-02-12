@@ -21,7 +21,7 @@ require("lazy").setup({
 
     -- add "core" LazyVim plugins
     { import = "lazyvim.plugins.extras.coding.blink" },
-    { import = "lazyvim.plugins.extras.coding.mini-comment" }
+    { import = "lazyvim.plugins.extras.coding.mini-comment" },
     { import = "lazyvim.plugins.extras.dap.core" },
     { import = "lazyvim.plugins.extras.test.core" },
     { import = "lazyvim.plugins.extras.formatting.prettier" },
